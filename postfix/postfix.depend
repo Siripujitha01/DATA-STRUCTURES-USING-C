@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640167024 source:d:\sri\postfix\main.c
+	<stdio.h>
+
+1640167024 source:d:\sri\data structures\postfix\main.c
+	<stdio.h>
+

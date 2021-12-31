@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637372434 source:d:\sri\evaluating postfix\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

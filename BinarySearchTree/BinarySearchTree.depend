@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640797421 source:d:\sri\data structures\binarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

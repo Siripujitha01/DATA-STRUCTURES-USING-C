@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637684099 source:d:\sri\linkedlists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<conio.h>
+
+1640201710 source:d:\sri\data structures\linkedlists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<conio.h>
+

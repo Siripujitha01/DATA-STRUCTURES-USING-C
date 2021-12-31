@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640264758 source:d:\sri\data structures\circularlinkedlists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<conio.h>
+
